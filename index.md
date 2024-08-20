@@ -2,6 +2,12 @@
 layout: default
 ---
 
+<style>
+        body {
+            font-family: 'Optima', 'Segoe', 'Segoe UI', 'Candara', 'Calibri', 'Arial', sans-serif !important;
+        }
+</style>
+
 I am a Ph.D. candidate in Economics at UC Berkeley.
 
 My research examines spatial inequality and the provision of local public goods. I also work on landlord market power and its effects on housing affordability.
