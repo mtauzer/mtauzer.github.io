@@ -17,7 +17,7 @@ My research examines spatial inequality and the provision of local public goods.
 
 ### Working Papers
 
-The Geography of Local Public Goods (with Damien Capelle) [draft forthcoming]
+The Geography of Local Public Goods [draft forthcoming] (with Damien Capelle)
 
 <p style="margin-left: 15px; font-size: 13px;"><strong>Abstract:</strong> This paper investigates the relationship between residential sorting and the provision of local public goods in French municipalities. Using a detailed dataset on municipal budgets, we uncover significant heterogeneity in the levels and composition of public services across municipalities. Our findings reveal that wealthier municipalities allocate a higher proportion of their budgets to education and youth programs, while poorer municipalities spend relatively more on social services. These patterns are suggestive of non-homothetic preferences, where households with different incomes exhibit varying tastes for public goods and different sensitivities to tax rates. To explain these patterns, we develop a dynamic spatial equilibrium model that incorporates heterogeneous household preferences, varying degrees of public good rivalry, and collective decision-making through local voting on tax rates and public goods provision. Our model also captures the role of federal transfers in shaping welfare, household sorting, and spatial inequality. The model's predictions are consistent with our empirical findings, and we use it to evaluate the impacts of decentralization policies and federal transfer designs on local welfare and inequality.</p>
 
@@ -27,7 +27,7 @@ Landlord Market Power and Housing Affordability: Evidence from a Large Online Re
 
 ### Policy Writing and Op-Eds
 
-Aggregate Impacts of the California High Speed Rail (with Pablo Fajgelbaum and Cecile Gaubert). _UCLA Institute of Transportation Studies_, forthcoming.
+**Aggregate Impacts of the California High Speed Rail** (with Pablo Fajgelbaum and Cecile Gaubert). _UCLA Institute of Transportation Studies_, forthcoming.
 
 Who are the Winners of the California High-Speed Rail Project? (with Pablo Fajgelbaum and Cecile Gaubert). _UCLA Institute of Transportation Studies_, forthcoming.
 
