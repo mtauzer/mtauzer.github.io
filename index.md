@@ -25,11 +25,11 @@ layout: default
             text-decoration: underline; /* Adds underline on hover */
         }
         .wrapper {
-          width:760px;
+          width:810px;
           margin:0 auto;
         }
         section {
-          width:600px;
+          width:550px;
           float:right;
           padding-bottom:50px;
         }
