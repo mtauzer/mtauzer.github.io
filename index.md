@@ -43,7 +43,7 @@ You can reach me at mtauzer (at) berkeley (dot) edu.
 
 * * *
 
-### working papers
+### Working Papers
 
 The Geography of Local Public Goods [draft forthcoming] (with Damien Capelle)
 
@@ -53,7 +53,7 @@ Landlord Market Power and Housing Affordability: Evidence from a Large Online Re
 
 * * *
 
-### policy writing & op-eds
+### Policy Writing & Op-Eds
 
 - Aggregate Impacts of the California High Speed Rail (with Pablo Fajgelbaum and Cecile Gaubert). _UCLA Institute of Transportation Studies_, forthcoming.
 - Who are the Winners of the California High-Speed Rail Project? (with Pablo Fajgelbaum and Cecile Gaubert). _UCLA Institute of Transportation Studies_, forthcoming.
@@ -64,7 +64,7 @@ Landlord Market Power and Housing Affordability: Evidence from a Large Online Re
 
 
 * * *
-### teaching
+### Teaching
 
 - Topics in Economic Research (x3)
 - Applied Econometrics and Public Policy (x2)
