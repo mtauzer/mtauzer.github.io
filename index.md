@@ -36,6 +36,8 @@ I am a Ph.D. candidate in Economics at UC Berkeley.
 
 My research examines spatial inequality and the provision of local public goods. I also work on landlord market power and its implications for housing affordability.
 
+mtauzer(at)berkeley(dot)edu
+
 * * *
 
 ### Working Papers
