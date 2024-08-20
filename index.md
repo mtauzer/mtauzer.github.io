@@ -12,6 +12,10 @@ layout: default
         h1, h2, h3, h4, h5, h6 {
             color: #1a2a6c; /* Navy color for headers */
         }
+        strong, b {
+            color: #1a2a6c; /* Navy color for bolded text */
+            font-weight: bold; /* Ensures text is bolded */
+        }
         a {
             color: #007BFF; /* Link color */
             text-decoration: none; /* Removes underline from links */
