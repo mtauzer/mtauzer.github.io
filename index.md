@@ -58,7 +58,7 @@ Landlord Market Power and Housing Affordability: Evidence from a Large Online Re
 - Aggregate Impacts of the California High Speed Rail (with Pablo Fajgelbaum and Cecile Gaubert). _UCLA Institute of Transportation Studies_, forthcoming.
 - Who are the Winners of the California High-Speed Rail Project? (with Pablo Fajgelbaum and Cecile Gaubert). _UCLA Institute of Transportation Studies_, forthcoming.
 - The high cost of housing is a UC-created crisis. _SF Examiner_, 2022. [<a href = "https://www.sfexaminer.com/our_sections/forum/the-high-cost-of-housing-is-a-a-uc-created-crisis/article_76149e18-701e-11ed-bad3-337f34ad12d1.html#:~:text=UC%20Berkeley-,Most%20UC%20campuses%20face%20a%20housing%20shortfall%20over%20the%20next,in%20terms%20of%20time%20period.">link</a>]
-- Chicago: The city that works—for whom? (with James Heckman). _The Chicago Tribune_, 2016. [<a href = "[https://www.sfexaminer.com/our_sections/forum/the-high-cost-of-housing-is-a-a-uc-created-crisis/article_76149e18-701e-11ed-bad3-337f34ad12d1.html#:~:text=UC%20Berkeley-,Most%20UC%20campuses%20face%20a%20housing%20shortfall%20over%20the%20next,in%20terms%20of%20time%20period](https://www.chicagotribune.com/2016/05/12/chicago-the-city-that-works-for-whom/)">link</a>]
+- Chicago: The city that works—for whom? (with James Heckman). _The Chicago Tribune_, 2016. [<a href = "https://www.chicagotribune.com/2016/05/12/chicago-the-city-that-works-for-whom/">link</a>]
 
 
 
