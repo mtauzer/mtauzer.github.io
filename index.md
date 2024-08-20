@@ -68,5 +68,6 @@ Landlord Market Power and Housing Affordability: Evidence from a Large Online Re
 
 - Topics in Economic Research (x3)
 - Applied Econometrics and Public Policy (x2)
-- Econometrics (Math Intensive)
 - Econometrics (x2)
+- Econometrics (Math Intensive)
+
