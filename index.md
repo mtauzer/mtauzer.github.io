@@ -5,7 +5,7 @@ layout: default
 <style>
         body {
             font-family: 'Optima', 'Segoe', 'Segoe UI', 'Candara', 'Calibri', 'Arial', sans-serif !important;
-            font-size: 14px !important;
+            font-size: 15px !important;
             color: #1a2a6c; /* Navy color for text */
             background-color: #f7faff; /* Very pale blue background */
         }
@@ -36,7 +36,7 @@ My research examines spatial inequality and the provision of local public goods.
 
 The Geography of Local Public Goods [draft forthcoming] (with Damien Capelle)
 
-<p style="margin-left: 15px; font-size: 13px;"><strong>Abstract:</strong> This paper investigates the relationship between residential sorting and the provision of local public goods in French municipalities. Using a detailed dataset on municipal budgets, we uncover significant heterogeneity in the levels and composition of public services across municipalities. Our findings reveal that wealthier municipalities allocate a higher proportion of their budgets to education and youth programs, while poorer municipalities spend relatively more on social services. These patterns are suggestive of non-homothetic preferences, where households with different incomes exhibit varying tastes for public goods and different sensitivities to tax rates. To explain these patterns, we develop a dynamic spatial equilibrium model that incorporates heterogeneous household preferences, varying degrees of public good rivalry, and collective decision-making through local voting on tax rates and public goods provision. Our model also captures the role of federal transfers in shaping welfare, household sorting, and spatial inequality. The model's predictions are consistent with our empirical findings, and we use it to evaluate the impacts of decentralization policies and federal transfer designs on local welfare and inequality.</p>
+<p style="margin-left: 15px; font-size: 14px;"><strong>Abstract:</strong> This paper investigates the relationship between residential sorting and the provision of local public goods in French municipalities. Using a detailed dataset on municipal budgets, we uncover significant heterogeneity in the levels and composition of public services across municipalities. Our findings reveal that wealthier municipalities allocate a higher proportion of their budgets to education and youth programs, while poorer municipalities spend relatively more on social services. These patterns are suggestive of non-homothetic preferences, where households with different incomes exhibit varying tastes for public goods and different sensitivities to tax rates. To explain these patterns, we develop a dynamic spatial equilibrium model that incorporates heterogeneous household preferences, varying degrees of public good rivalry, and collective decision-making through local voting on tax rates and public goods provision. Our model also captures the role of federal transfers in shaping welfare, household sorting, and spatial inequality. The model's predictions are consistent with our empirical findings, and we use it to evaluate the impacts of decentralization policies and federal transfer designs on local welfare and inequality.</p>
 
 Landlord Market Power and Housing Affordability: Evidence from a Large Online Rental Platform [draft forthcoming]
 
