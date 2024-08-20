@@ -5,6 +5,7 @@ layout: default
 <style>
         body {
             font-family: 'Optima', 'Segoe', 'Segoe UI', 'Candara', 'Calibri', 'Arial', sans-serif !important;
+            font-size: 14px !important;
         }
 </style>
 
