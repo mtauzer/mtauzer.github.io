@@ -25,7 +25,7 @@ layout: default
             text-decoration: underline; /* Adds underline on hover */
         }
         header {
-          width:270px;
+          width:200px;
           float:left;
           position:fixed;
           -webkit-font-smoothing:subpixel-antialiased;
