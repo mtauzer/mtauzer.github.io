@@ -15,6 +15,21 @@ The Geography of Local Public Goods (with D. Capelle) [draft forthcoming]
 Landlord Market Power and Housing Affordability: Evidence from a Large Online Rental Platform [draft forthcoming]
 
 * * *
+
+### Policy Writing and Op-Eds
+
+Aggregate Impacts of the California High Speed Rail (with Pablo Fajgelbaum and Cecile Gaubert). UCLA Institute of Transportation Studies, forthcoming.
+
+Who are the Winners of the California High-Speed Rail Project? (with Pablo Fajgelbaum and Cecile Gaubert). UCLA Institute of Transportation Studies, forthcoming.
+
+The high cost of housing is a UC-created crisis. SF Examiner, 2022.
+
+Chicago: The city that works—for whom? (with James Heckman). The Chicago Tribune, 2016.
+
+
+
+
+* * *
 ### Teaching
 
 - Topics in Economic Research (x3)
