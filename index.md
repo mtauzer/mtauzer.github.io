@@ -7,6 +7,14 @@ layout: default
             font-family: 'Optima', 'Segoe', 'Segoe UI', 'Candara', 'Calibri', 'Arial', sans-serif !important;
             font-size: 16px !important;
         }
+        a {
+            color: #007BFF; /* Replace this color code with your desired link color */
+            text-decoration: none; /* Optional: Removes underline from links */
+        }
+        a:hover {
+            color: #0056b3; /* Optional: Changes link color on hover */
+            text-decoration: underline; /* Optional: Adds underline on hover */
+        }
 </style>
 
 I am a Ph.D. candidate in Economics at UC Berkeley.
