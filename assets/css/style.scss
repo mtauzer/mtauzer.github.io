@@ -2,8 +2,8 @@
 ---
 ---
 
-@import "{{ site.theme }}";
- 
+@import 'jekyll-theme-minimal';
+
 body {
     font-family: 'Optima', 'Segoe', 'Segoe UI', 'Candara', 'Calibri', 'Arial', sans-serif;
 }
