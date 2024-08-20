@@ -5,15 +5,21 @@ layout: default
 <style>
         body {
             font-family: 'Optima', 'Segoe', 'Segoe UI', 'Candara', 'Calibri', 'Arial', sans-serif !important;
-            font-size: 16px !important;
+            font-size: 14px !important;
+            color: #1a2a6c; /* Navy color for text */
+            background-color: #e6f0ff; /* Very pale blue background */
+        }
+        p {
+            margin-left: 30px;
+            font-size: 12px;
         }
         a {
-            color: #007BFF; /* Replace this color code with your desired link color */
-            text-decoration: none; /* Optional: Removes underline from links */
+            color: #007BFF; /* Link color */
+            text-decoration: none; /* Removes underline from links */
         }
         a:hover {
-            color: #0056b3; /* Optional: Changes link color on hover */
-            text-decoration: underline; /* Optional: Adds underline on hover */
+            color: #0056b3; /* Changes link color on hover */
+            text-decoration: underline; /* Adds underline on hover */
         }
 </style>
 
