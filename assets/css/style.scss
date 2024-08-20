@@ -1,3 +1,4 @@
+
 ---
 ---
 
@@ -20,8 +21,16 @@ a {
     text-decoration: none; /* Removes the default underline */
 }
 
-/* Change the color of links when hovered */
 a:hover {
     color: #417722; /* A slightly darker shade for hover effect */
     text-decoration: underline; /* Optional: Adds underline on hover */
+}
+
+blockquote {
+    font-style: normal; /* Removes the italic style */
+    font-size: 0.875em; /* Reduces the font size by 2 points */
+    margin: 1em 0; /* Adds some vertical spacing */
+    padding: 0.5em 1em; /* Adds padding inside the blockquote */
+    border-left: 4px solid #59A52C; /* Optional: Adds a green left border for emphasis */
+    background-color: #f9f9f9; /* Optional: Light gray background for contrast */
 }
