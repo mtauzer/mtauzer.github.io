@@ -7,11 +7,10 @@ layout: default
             font-family: 'Optima', 'Segoe', 'Segoe UI', 'Candara', 'Calibri', 'Arial', sans-serif !important;
             font-size: 14px !important;
             color: #1a2a6c; /* Navy color for text */
-            background-color: #e6f0ff; /* Very pale blue background */
+            background-color: #FAFCFF; /* Very pale blue background */
         }
-        p {
-            margin-left: 30px;
-            font-size: 12px;
+        h1, h2, h3, h4, h5, h6 {
+            color: #1a2a6c; /* Navy color for headers */
         }
         a {
             color: #007BFF; /* Link color */
