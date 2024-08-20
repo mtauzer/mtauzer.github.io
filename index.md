@@ -20,22 +20,11 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+### Working Papers
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+The Geography of Local Public Goods (with D. Capelle)
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+> This paper investigates the relationship between residential sorting and the provision of local public goods in French municipalities. Using a detailed dataset on municipal budgets, we uncover significant heterogeneity in the levels and composition of public services across municipalities. Our findings reveal that wealthier municipalities allocate a higher proportion of their budgets to education and youth programs, while poorer municipalities spend relatively more on social services. These patterns align with non-homothetic preferences, where households with different incomes exhibit varying tastes for public goods and different sensitivities to tax rates. To explain these patterns, we develop a dynamic spatial equilibrium model that incorporates heterogeneous household preferences, varying degrees of public good rivalry, and collective decision-making through local voting on tax rates and public goods provision. Our model also captures the role of federal transfers in shaping welfare, household sorting, and spatial inequality. The model's predictions are consistent with our empirical findings, and we use it to evaluate the impacts of decentralization policies and federal transfer designs on local welfare and inequality.
 
 #### Header 4
 
