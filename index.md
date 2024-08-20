@@ -35,13 +35,10 @@ Landlord Market Power and Housing Affordability: Evidence from a Large Online Re
 
 ### Policy Writing and Op-Eds
 
-**Aggregate Impacts of the California High Speed Rail** (with Pablo Fajgelbaum and Cecile Gaubert). _UCLA Institute of Transportation Studies_, forthcoming.
-
-Who are the Winners of the California High-Speed Rail Project? (with Pablo Fajgelbaum and Cecile Gaubert). _UCLA Institute of Transportation Studies_, forthcoming.
-
-The high cost of housing is a UC-created crisis. _SF Examiner_, 2022.
-
-Chicago: The city that works—for whom? (with James Heckman). _The Chicago Tribune_, 2016.
+- Aggregate Impacts of the California High Speed Rail (with Pablo Fajgelbaum and Cecile Gaubert). _UCLA Institute of Transportation Studies_, forthcoming.
+- Who are the Winners of the California High-Speed Rail Project? (with Pablo Fajgelbaum and Cecile Gaubert). _UCLA Institute of Transportation Studies_, forthcoming.
+- The high cost of housing is a UC-created crisis. _SF Examiner_, 2022.
+- Chicago: The city that works—for whom? (with James Heckman). _The Chicago Tribune_, 2016.
 
 
 
