@@ -51,6 +51,9 @@ Income Sorting and the Composition of Local Public Goods [draft forthcoming] (wi
 
 Landlord Market Power and Housing Affordability: Evidence from a Large Online Rental Platform [draft forthcoming]
 
+<p style="margin-left: 15px; font-size: 14px;"><strong>Abstract:</strong> This paper investigates market power in the U.S. rental housing market and its implications for housing affordability. To quantify landlord market power, I develop a model of frictional housing search and estimate time-on-market elasticities as a proxy for individual landlords' demand curves. The empirical strategy leverages nationwide data on repeated rental vacancies from a large online rental platform, spanning diverse U.S. housing markets. I find widespread evidence of substantial market power among landlords. Consistent with theoretical predictions, these elasticities are inversely related to local landlord concentration and positively correlated with local vacancy rates. These findings suggest that market structure plays an important role in determining rental prices and housing affordability.
+</p>
+
 * * *
 
 ### Works in Progress
