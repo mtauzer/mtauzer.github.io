@@ -49,7 +49,9 @@ Landlord Market Power and Housing Affordability: Evidence from a Large Online Re
 
 ### Works in Progress
 
-Spatial Patterns of Landlord Concentration in the U.S.
+Luxury Bias in Urban Development: Vacancy Rates, Markups, and Housing Misallocation in New York City"
+
+The Geography of Landlord Concentration in the U.S.
 
 * * *
 
