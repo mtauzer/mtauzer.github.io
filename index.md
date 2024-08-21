@@ -58,7 +58,7 @@ Landlord Market Power and Housing Affordability: Evidence from a Large Online Re
 
 ### Works in Progress
 
-Landlord Concentration and Rents in the U.S.
+Spatial Patterns of Landlord Concentration in the U.S.
 
 * * *
 
