@@ -24,15 +24,6 @@ layout: default
             color: #0056b3; /* Changes link color on hover */
             text-decoration: underline; /* Adds underline on hover */
         }
-        .wrapper {
-          width:790px;
-          margin:0 auto;
-        }
-        section {
-          width:510px;
-          float:right;
-          padding-bottom:50px;
-        }
 </style>
 
 I am a Ph.D. candidate in Economics at UC Berkeley.
