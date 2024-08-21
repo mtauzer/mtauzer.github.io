@@ -29,7 +29,7 @@ layout: default
           margin:0 auto;
         }
         section {
-          width:570px;
+          width:510px;
           float:right;
           padding-bottom:50px;
         }
