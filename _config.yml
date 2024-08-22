@@ -2,5 +2,6 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: Matthew Tauzer
+google_analytics: G-17VNX3Z3B7
 github:
   is_project_page: false
