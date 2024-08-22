@@ -10,7 +10,7 @@ layout: default
             background-color: #f7faff; /* Very pale blue background */
         }
         h1, h2, h3, h4, h5, h6 {
-            color: #1a2a6c; /* Navy color for headers */
+            color: #002366; /* Navy color for headers */
         }
         strong, b {
             color: #1a2a6c; /* Navy color for bolded text */
