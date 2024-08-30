@@ -36,7 +36,7 @@ You can reach me at <a href= "mailto: mtauzer@berkeley.edu">mtauzer@berkeley.edu
 
 ### Working Papers
 
-Welfare Effects of Decentralizing Public Goods [draft forthcoming] (with Damien Capelle)
+The Welfare Effects of Decentralizing Public Goods [draft forthcoming] (with Damien Capelle)
 
 <p style="margin-left: 10px; font-size: 13px;"><strong>Abstract:</strong> This paper investigates the interaction between residential sorting and local public goods provision in French municipalities. Analyzing municipal budget data, we find significant heterogeneity in the level and composition of public goods across localities. Additionally, municipal "Engel curves" reveal that  areas with higher median incomes allocate a greater share of their budgets to education and youth programs, while poorer ones spend relatively more on social and administrative services. To explain these patterns, we develop a dynamic spatial equilibrium model with non-homothetic household preferences over varieties of public goods, varying public good rivalry, and collective decision-making through local voting on tax rates and public goods provision. The model, consistent with our empirical findings, also considers the role of federal transfers in shaping welfare, sorting, and spatial inequality. We use this framework to evaluate the impacts of decentralization policies and federal transfer designs on welfare and spatial inequality. </p>
 
