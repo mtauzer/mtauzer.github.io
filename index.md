@@ -14,7 +14,7 @@ layout: default
         }
         strong, b {
             color: #1a2a6c; /* Navy color for bolded text */
-            font-weight: bold; /* Ensures text is bolded */
+            font-weight: 400; /* Set font weight to 400 */
         }
         a {
             color: #007BFF; /* Link color */
