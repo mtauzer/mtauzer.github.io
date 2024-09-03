@@ -71,5 +71,5 @@ The Geography of Landlord Concentration in the U.S.
 - Topics in Economic Research (x3)
 - Applied Econometrics and Public Policy (x2)
 - Econometrics (x2)
-- Econometrics (Math Intensive) (x1)
+- Econometrics, Math Intensive (x1)
 
