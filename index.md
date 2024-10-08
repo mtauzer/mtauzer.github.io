@@ -4,7 +4,7 @@ layout: default
 
 <style>
         body {
-            font-family: 'Optima', 'Segoe', 'Segoe UI', 'Candara', 'Calibri', 'Arial', sans-serif !important;
+            font-family: 'Merriweather', 'Optima', 'Segoe', 'Segoe UI', 'Candara', 'Calibri', 'Arial', sans-serif !important;
             font-size: 15px !important;
             color: #1a2a6c; /* Navy color for text */
             background-color: #f7faff; /* Very pale blue background */
